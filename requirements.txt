@@ -1,0 +1,25 @@
+# Web Interface
+streamlit
+
+# LangChain Core + Community
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+
+# Google Gemini
+google-generativeai
+
+# Embeddings & Models
+sentence-transformers
+transformers
+torch
+
+# Vector DB
+chromadb
+
+# PDF Processing
+pypdf
+
+# Utilities
+python-dotenv
